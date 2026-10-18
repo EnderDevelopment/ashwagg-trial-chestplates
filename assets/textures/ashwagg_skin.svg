@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" shape-rendering="crispEdges">
+    <!-- Ashwagg Unstable SMP Skin -->
+    <rect x="0" y="0" width="64" height="32" fill="#8B4513"/>
+    <!-- Head -->
+    <rect x="24" y="0" width="16" height="16" fill="#FFA500"/>
+    <!-- Body -->
+    <rect x="20" y="16" width="24" height="16" fill="#FFD700"/>
+    <!-- Legs -->
+    <rect x="24" y="32" width="8" height="16" fill="#8B4513"/>
+    <rect x="32" y="32" width="8" height="16" fill="#8B4513"/>
+    <!-- Arms -->
+    <rect x="16" y="16" width="8" height="16" fill="#FFA500"/>
+    <rect x="40" y="16" width="8" height="16" fill="#FFA500"/>
+</svg>
